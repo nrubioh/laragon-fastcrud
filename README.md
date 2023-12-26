@@ -47,7 +47,7 @@ This README documents a simple Laravel 10 project that implements a **CRUD (Crea
 
 ![List](./imgrd/fast_laravel_crud.png?width=70)
 ![Creation](./imgrd/fast_laravel_crud2.png?width=70)
-![SQL](./imgrd/fast_laravel_crud.png?width=70)
+![SQL](./imgrd/fast_laravel_crud3.png?width=70)
 
 ### Further Development:
 
@@ -113,7 +113,7 @@ Este README documenta un proyecto simple de Laravel 10 que implementa un sistema
 
 ![Lista](./imgrd/fast_laravel_crud.png?width=70)
 ![Creación](./imgrd/fast_laravel_crud2.png?width=70)
-![SQL](./imgrd/fast_laravel_crud.png?width=70)
+![SQL](./imgrd/fast_laravel_crud3.png?width=70)
 
 ### Desarrollo Adicional:
 
